@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Mayara Aragão from Brazil. I’m passionate about knowledge and am currently learning and developing my skills in front-end development.
+
+😄
+
 <!--
 **mayaragao/mayaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
