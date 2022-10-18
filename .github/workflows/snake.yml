@@ -20,6 +20,13 @@ jobs:
       
             #dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: generate snake-game-from-github-contribution-grid-dark
+        uses: Platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: mayaragao
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
