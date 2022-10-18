@@ -30,7 +30,9 @@
 </div>
 
   
-![Snake animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg)
+![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![Snake Dark animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 comentado
