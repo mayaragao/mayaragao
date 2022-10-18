@@ -29,18 +29,13 @@
   <a href="https://www.linkedin.com/in/mayara-aragao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  
-![Snake Light animation](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
-
-![Snake Dark animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 comentado
 
 
-![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Dark animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
