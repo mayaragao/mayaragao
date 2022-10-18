@@ -30,13 +30,14 @@
 </div>
 
 
-![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake Dark animation](snake-gif-dark#gh-dark-mode-only)
+![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 comentado
 
-
+![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake Dark animation](snake-gif-dark#gh-dark-mode-only)
+![Snake Dark animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="35" width="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="35" width="40"/> </a>
