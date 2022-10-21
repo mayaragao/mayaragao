@@ -4,12 +4,32 @@
 :sparkling_heart: A passionate front-end developer from Brazil<br />
 :crystal_ball: I’m currently learning and developing my skills in back-end development too.
 
+<!---
 <br />
 <div align="center">
   <a href="https://github.com/mayaragao">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayaragao&show_icons=true&theme=buefy&hide=issues&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragao&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=buefy"/>
 </div>
+-->
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/mayaragao">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayaragao&show_icons=true&theme=react&hide=issues&count_private=true">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayaragao&show_icons=true&theme=buefy&hide=issues&count_private=true"/>
+
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragao&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=react">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaragao&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=buefy"/>
+  
+</picture>
+</div>
+
+
 
 <br />
 <div style="display: inline_block" align="center"><br> 
