@@ -50,7 +50,7 @@
 </div>
 
 
-<!--
+
 ![Snake Light animation](https://github.com/mayaragao/mayaragao/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 comentado
@@ -63,4 +63,4 @@ comentado
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="35" width="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"  height="35" width="40"/> </a>
   
--->
+
